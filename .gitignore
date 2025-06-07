@@ -1,0 +1,31 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Model files
+*.pt
+*.pth
+*.weights
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+output/
+output_*.mp4
+
+# Environment files
+.env
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db 
