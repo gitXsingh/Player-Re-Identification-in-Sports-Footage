@@ -1,10 +1,11 @@
 # Video files
 *.mp4
-*.avi
-*.mov
+!15sec_input_720p.mp4
+!output_video.mp4
 
 # Model files
 *.pt
+!best.pt
 *.pth
 *.weights
 
